@@ -1,18 +1,31 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
-# Magic 8 Ball
-
-## Our Goal
-
-The objective of this challenge is to apply the skills you learned in the Dicee tutorial and get you making an app with functionality all by yourself. There’s no new concepts here. But you’re flyin’ solo this time! Most of the programming skills are gained in the challenges rather than the tutorials. It’s when you’re using your new-found programming skills to bend the app to your will that you’re truly levelling up as a developer.
-
-## What you will create
-
-We’re going to make a Magic 8 Ball app. You can ask the app to make all your hard decisions! With this app in your pocket, you’ll always have an answer to life’s many conundrums!
+# Magic 8 Ball (Challenge App)
+App Completed as a part of Udemy Course - iOS &amp; Swift - The complete iOS Appe Development Bootcamp
 
 
+# Apps Developped so far
+ - I Am Rich 
+ - I Am Poor
+ - Dicee
+ - Magic 8 Ball
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](Documentation/readme-end-banner.png)
+## Topics Covered
+ - Auto-Layout Practice
+ - Image Assets
+ - Image Literals
+ - IB Outlets / IBActions
+ - Basics of Swift
 
+## Details
+### Done as a Practice Challenge (No Instructor Help)
+ - Adding and using Image Assets
+ - Swift Naming Conventions and String Interpolation
+ - Swift Variables
+ - Swift Arrays
+ - Randomizing function / Range Operators
+
+## Resources
+- [Udemy Course - Course Created by Angela Yu](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
+- [London App Brewery](https://www.londonappbrewery.com)
+
+       > All Resources (Including Image Assets Provided by Course Instructor) 
